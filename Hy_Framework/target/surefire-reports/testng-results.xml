@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Dashboard « Stock Accounting]]>
+    </line>
+    <line>
+      <![CDATA[Stock-000000181   Stock-000000181]]>
+    </line>
+    <line>
+      <![CDATA[Dashboard « Stock Accounting]]>
+    </line>
+    <line>
+      <![CDATA[Dashboard « Stock Accounting]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-25T22:24:55 IST" name="Surefire suite" finished-at="2024-01-25T22:26:08 IST" duration-ms="73056">
+    <groups>
+    </groups>
+    <test started-at="2024-01-25T22:24:55 IST" name="Surefire test" finished-at="2024-01-25T22:26:08 IST" duration-ms="73056">
+      <class name="driverFactory.AppTest">
+        <test-method signature="kickStart()[pri:0, instance:driverFactory.AppTest@41e1e210]" started-at="2024-01-25T22:24:55 IST" name="kickStart" finished-at="2024-01-25T22:26:08 IST" duration-ms="73031" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Dashboard « Stock Accounting]]>
+            </line>
+            <line>
+              <![CDATA[Stock-000000181   Stock-000000181]]>
+            </line>
+            <line>
+              <![CDATA[Dashboard « Stock Accounting]]>
+            </line>
+            <line>
+              <![CDATA[Dashboard « Stock Accounting]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- kickStart -->
+      </class> <!-- driverFactory.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
